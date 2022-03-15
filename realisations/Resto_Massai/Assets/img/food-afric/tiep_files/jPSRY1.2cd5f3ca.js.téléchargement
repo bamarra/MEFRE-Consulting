@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["jPSRY1",(e,a)=>{"use strict";var r,t,i,c=({margin:e=0,...a})=>r.createElement("hr",{className:t("cmDEY",i({margin:e,...a}))});return[()=>{e("default",c)},[e=>r=e,e=>(t=e.default,i=e.margin)]]},["cDcdfi","iekllc"]]);

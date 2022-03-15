@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["HDgDKt",(t,e)=>{"use strict";var s;return[()=>{t("PromptsContext",s.createContext({adhesionClosed:!1,notifyAdhesion:()=>{}}))},[t=>s=t]]},["cDcdfi"]]);

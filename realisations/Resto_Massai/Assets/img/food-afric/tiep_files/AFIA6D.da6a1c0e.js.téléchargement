@@ -1,0 +1,1 @@
+(this.$WP=this.$WP||[]).push(["AFIA6D",(e,s)=>{"use strict";var t,a=({children:e})=>t.createElement("span",{className:"flgFI"},e);return[()=>{e("RequiredLabel",a)},[e=>t=e.default]]},["cDcdfi"]]);
